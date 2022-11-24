@@ -1,11 +1,16 @@
 # Introduction 
-- Simple robot filtering website 
-- Utilizing HTML, CSS, React
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This is a simple webpage that pulls cards of robots and their information from an external API.
+- Also allows for searching/filtering of robots.
+- Built using HTML, CSS, React.
+- Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About
-Here are some screenshots to represent the finished project
-Utilized state, reacts 
+- Utilizes React principles such as: components, state, useEffect, ErrorBoundrys, and hooks.
+- Screenshots of final product:
+
+<img src="/public/rbf1.png" width="500px">
+
+<img src="/public/rbf2.png" width="500px">
 
 ## Build & Usage
 In the project directory, you can run the following commands:

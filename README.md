@@ -8,9 +8,9 @@
 - Utilizes React principles such as: components, state, useEffect, ErrorBoundrys, and hooks.
 - Screenshots of final product:
 
-<img src="/public/rbf1.png" width="500px">
+<img src="/public/rbf1.png" width="500px" />
 
-<img src="/public/rbf2.png" width="500px">
+<img src="/public/rbf2.png" width="500px" />
 
 ## Build & Usage
 In the project directory, you can run the following commands:

@@ -15,6 +15,10 @@
 ## Build & Usage
 In the project directory, you can run the following commands:
 
+### `npm i`
+
+Installs npm.
+
 ### `npm start`
 
 Runs the app in the development mode.
